@@ -66,7 +66,7 @@ Built using **PHP**, **MySQL**, and modern **CSS**, the platform ensures reliabl
 ![Payment Page](./screenshots/payment.jpg)
 
 ### 📖 Read Books Page
-![Read Books Page](./screenshots/read_books.jpg)
+![Read Books Page](./screenshots/read_book.jpg)
 
 ### 🔍 Search Page
 ![Search Page](./screenshots/search.jpg)
