@@ -1,15 +1,15 @@
-# 📚 WordWave Web – E-Library System
+# 📚 WordWave – E-Library System
 
-**WordWave Web** is an online e-library platform that allows users to borrow and read books digitally for a specific time period after payment.  
-It helps eliminate the hassle of carrying physical books while offering an affordable and convenient reading experience—all through the web.
+**WordWave** is a browser-based e-library platform that allows users to borrow and read books digitally for a specific time period after payment.  
+It provides a seamless reading experience through any modern web browser, making books accessible anywhere with internet connectivity.
 
 ---
 
 ## 🚀 Overview
 
-WordWave Web makes reading accessible anytime and anywhere via your browser.  
-Users can explore a wide range of books, make secure payments, and borrow them directly from the website.  
-Built using **React.js**, **CSS**, and **MongoDB**, the app ensures smooth performance and a user-friendly experience.
+WordWave Web makes reading accessible anytime and anywhere through your web browser.  
+Users can explore a wide range of books, make secure payments, and access them directly from the website.  
+Built using **PHP**, **MySQL**, and modern **CSS**, the platform ensures reliable performance and a responsive user experience.
 
 ---
 
@@ -26,17 +26,47 @@ Built using **React.js**, **CSS**, and **MongoDB**, the app ensures smooth perfo
 
 ## 🛠️ Tech Stack
 
-- **Language:** HTML,PHP 
-- **UI Design:** CSS  
-- **Database:** MySql
-- **IDE:** VS Code / Browser
+- **Backend:** PHP
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Database:** MySQL
+- **Server:** Apache
+- **IDE:** VS Code
+- **Version Control:** Git
   
+
+## ⚙️ Setup & Installation
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/yashitaliya/WordWave.git
+   ```
+
+2. Set up local web server (XAMPP/WAMP/MAMP)
+3. Import database schema
+4. Configure database connection in `db.php`
+5. Access through web browser
+
+---
+
+## 🔐 Database Configuration
+
+1. Update `db.php` with your credentials:
+   ```php
+   $host = "localhost";
+   $username = "your_username";
+   $password = "your_password";
+   $database = "wordwave_db";
+   ```
+
+---
 
 ## 🔮 Future Improvements
 
-* Cloud integration using Firebase  
-* Due-date notifications   
-* Enhanced filter options  
+* Integration with mobile app
+* Enhanced payment options
+* Advanced search filters
+* Reading progress tracking
+* Social sharing features
 
 ---
 
@@ -47,6 +77,6 @@ Every member contributed equally to the project’s success.
 
 | Name            | Role      | Contact                                 |
 |-----------------|-----------|-----------------------------------------|
-| VEDANT JOSHI    | Developer | [GitHub](https://github.com/vedantpjoshi) |
 | YASH ITALIYA    | Developer | [GitHub](https://github.com/yashitaliya) |
+| VEDANT JOSHI    | Developer | [GitHub](https://github.com/vedantpjoshi) |
 | YUG KALATHIYA   | Developer | [GitHub](https://github.com/Yugkalathiya) |
