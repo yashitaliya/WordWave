@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WordWave</string>
+    <string name="sign_up_link"><a href="#">Sign up</a></string>
+    <string name="sign_in_link"><a href="#">Sign in</a></string>
+</resources>

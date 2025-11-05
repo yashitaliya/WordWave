@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:id="@+id/group_profile">
+        <item
+            android:id="@+id/my_profile"
+            android:icon="@drawable/person"
+            android:title="My Profile" />
+    </group>
+
+    <group android:id="@+id/group_books">
+        <item
+            android:id="@+id/my_books"
+            android:icon="@drawable/mybooks"
+            android:title="My Books" />
+    </group>
+
+    <group android:id="@+id/group_about_us">
+        <item
+            android:id="@+id/about_us"
+            android:icon="@drawable/about_us"
+            android:title="About Us" />
+    </group>
+
+    <group android:id="@+id/group_faq">
+        <item
+            android:id="@+id/faq"
+            android:icon="@drawable/faq"
+            android:title="FAQ" />
+    </group>
+
+    <!-- This group is for the logout button, which will be styled to be at the bottom -->
+    <group android:id="@+id/group_logout">
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/logout"
+            android:title="Logout" />
+    </group>
+
+</menu>
