@@ -48,6 +48,37 @@ Built using **PHP**, **MySQL**, and modern **CSS**, the platform ensures reliabl
 
 ---
 
+## 🖼️ Screenshots
+
+### 🔐 Login Page
+![Login Page](./screenshots/login.jpg)
+
+### 📝 Sign Up Page
+![Sign Up Page](./screenshots/sign_up.jpg)
+
+### 🏠 Home Page
+![Home Page](./screenshots/home.jpg)
+
+### 📚 Book Detail Page
+![Book Detail Page](./screenshots/book_detail.jpg)
+
+### 💳 Payment Page
+![Payment Page](./screenshots/payment.jpg)
+
+### 📖 Read Books Page
+![Read Books Page](./screenshots/read_books.jpg)
+
+### 🔍 Search Page
+![Search Page](./screenshots/search.jpg)
+
+### 📘 Borrowed Books Page
+![Borrowed Books Page](./screenshots/borrowed_books.jpg)
+
+### 👤 Profile Page
+![Profile Page](./screenshots/profile.jpg)
+
+---
+
 ## 🔐 Database Configuration
 
 1. Update `db.php` with your credentials:
